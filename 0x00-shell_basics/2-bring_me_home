@@ -1,2 +1,27 @@
+<<<<<<< HEAD
 #!/bin/bash
 cd ~
+=======
+cd -
+cd -
+#!/bin/bash
+cd -
+#!/bin/bash
+cd -
+
+[A[D[D[D[A
+
+
+
+
+
+#!/bin/bash
+cd -
+[A[D[D
+[A
+root@1b26107821e0:~/alx-system_engineering-devops# cat 0x00-shell_basics/2-bring_me_home
+#!/bin/bash
+cd -
+#!/bin/bash
+cd -
+>>>>>>> Display long content format
